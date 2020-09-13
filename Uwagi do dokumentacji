@@ -1,1 +1,40 @@
+Uwagi do dokumentacji:
+
+1.1 Menu nawigacyjne 
+Zbyt wąski i niepoprawny podział na sekcje. Dresses i T-shirts powinny być umieszczone w sub-menu.
+
+1.2 Brak opisu sub-menu 
+Brak opisu, co powinno znajdować się w opcjach sub-menu po najechaniu kursorem na daną sekcję w menu głównym.
+
+1.3 Zbyt wiele reklam 
+Podpunkt 1.3 opisuje, że na stronie ma pojawiać się minimalnie 23,2 reklam. Taka liczba może spowodować, że strona nie będzie czytelna, a użytkownik nie będzie w stanie naturalnie nawigować się po stronie.
+
+2.2 Niesprecyzowane wymagania 
+Podpunkt 2.2 opisujący formularz tworzenia nowego użytkownika jest opisany ogólnikowo i odnosi się do nie konkretnego bazowego formularza.
+
+2.3 Logowanie użytkownika 
+Brak informacji o tym, jaki przycisk umożliwia logowanie.
+
+3.4 Brak nazwy przycisku usuwania zawartości koszyka 
+W podpunkcie 3.4 w opisie brak nazwy przycisku, który usuwa produkty z koszyka.
+
+4.2 Niekompletna procedura zamawiania 
+W podpunkcie 4.2 nie jest podany odnośnik, gdzie użytkownik zostaje przeniesiony po kliknięciu "Proceed to checkout".
+
+5.2 Filtrowanie widoku 
+Powinny być sprecyzowane kryteria filtrowania.
+
+5.3 Porównanie produktów 
+Powinna być podana maksymalna liczba produktów.
+
+5.5 Wyszukiwarka 
+Brak informacji o komunikacie, jaki ma zostać wyświetlony w przypadku braku wyników wyszukiwania.
+
+5.6 Brak dokładnych informacji o sklepie 
+Brak konkretnych informacji, co powinno znajdować się w panelu informacji o sklepie
+
+5.7 Menu nawigacyjne 
+Menu wyłącznie na samym dole strony sklepu, może powodować trudności w poruszaniu się po stronie.
+
+Sposób płatności Powinny być podane metody płatności akceptowane przez sklep
 
